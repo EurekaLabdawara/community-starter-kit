@@ -35,4 +35,5 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Welcoming the new user:
+Hi! Welcome to this repository! Check the readme.md how to get started and check get-started.md to get started using this repository 
