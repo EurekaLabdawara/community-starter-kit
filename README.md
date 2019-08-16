@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This probot app are made to automate your github
 
 ## What it does
 
-FEATURES PLACEHOLDER
+What it does it the bot could welcome new user or contributor in the effected repository. Probot could read and write into your repository, made notification, or process your progress.
 
 ## Getting started
 
